@@ -3,12 +3,12 @@
     <channel>
         <title>Transcriptor</title>
         <item>
-            <title>0.1.10</title>
-            <pubDate>Mon, 16 Nov 2026 05:56:06 +0000</pubDate>
-            <sparkle:version>13</sparkle:version>
-            <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+            <title>0.1.11</title>
+            <pubDate>Mon, 16 Nov 2026 06:40:43 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jic-hub/jic-transcriptor-releases/releases/download/mac-v0.1.10/JIC-Transcriptor-0.1.10.dmg" length="7065187" type="application/octet-stream" sparkle:edSignature="jWSKWh3XAkI4olI4jiuWH0x58EowN2we5xYcVWf1ITy/6nGdmA7xKG+trNvECumyXvgZk+FXqW2i98AqargmBg=="/>
+            <enclosure url="https://github.com/jic-hub/jic-transcriptor-releases/releases/download/mac-v0.1.11/JIC-Transcriptor-0.1.11.dmg" length="7064702" type="application/octet-stream" sparkle:edSignature="nWis3SgztfceMwsUOnp9TyiYDdGniSKLKhp97si4JnwYgXKCQGgbq0H5AKmKA9k51Jij9/Zf1fKVjUlUiaAJAQ=="/>
         </item>
     </channel>
 </rss>
